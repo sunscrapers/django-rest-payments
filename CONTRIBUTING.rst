@@ -74,7 +74,7 @@ Ready to contribute? Here's how to set up `django-rest-payments` for local devel
    Now you can make your changes locally.
 
 5. When you're done making changes, please make sure that your code
-passes tests before pushing the commit and pull request:
+passes tests before pushing the commit and pull request::
 
     $ make coverage
 
